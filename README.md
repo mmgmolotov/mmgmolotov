@@ -22,7 +22,7 @@ Here's a glimpse of my tech toolbox:
 
 ## Connect with Me
 
-- 🐦 Twitter: [@mmgmolotov1](https://twitter.com/mmgmolotov1)
+- 🐦 X      : [@mmgmolotov1](https://twitter.com/mmgmolotov1)
 - 💬 Discord: mmgmolotov
 - 🌐 GitHub: [mmgmolotov](https://github.com/mmgmolotov)
 
