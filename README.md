@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **more back-end thechnics**
 
-- 📫 How to reach me **mmgmolotov@gmail.com**
+- 📫 How to reach me discord: **mmgmolotov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
