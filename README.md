@@ -2,7 +2,7 @@
 
 ![Header GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋, I'm MmgMolotov</h1>
+<h1 align="center">Hi 👋, I'm Marouane Lachheb</h1>
 <h3 align="center">A passionate FULL STACK developer from Morocco</h3>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 ![Separator](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-- 🔭 I’m currently working on **GalaxLearn**
-- 🌱 I’m currently learning **more back-end techniques**
+- 🔭 I’m currently working on **Syncro-Org**
+- 🌱 I’m currently learning **CyberSecurity**
 - 📫 How to reach me: **Discord: mmgmolotov**
 
 <h3 align="left">Connect with me:</h3>
